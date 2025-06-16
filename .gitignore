@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
